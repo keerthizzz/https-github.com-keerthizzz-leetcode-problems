@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0136-single-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0136-single-number) |
 ## Depth-First Search
 |  |
 | ------- |
