@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0412-fizz-buzz) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0412-fizz-buzz) |
 ## Matrix
 |  |
 | ------- |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0068-text-justification) |
+| [0412-fizz-buzz](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0412-fizz-buzz) |
 ## Combinatorics
 |  |
 | ------- |
