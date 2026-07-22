@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0062-unique-paths) |
 ## Recursion
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0062-unique-paths) |
 ## Matrix
 |  |
 | ------- |
@@ -117,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0054-spiral-matrix) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
