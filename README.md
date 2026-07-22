@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/1572-matrix-diagonal-sum) |
+| [1672-richest-customer-wealth](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
 | ------- |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0079-word-search) |
 | [0867-transpose-matrix](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/1572-matrix-diagonal-sum) |
+| [1672-richest-customer-wealth](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/1672-richest-customer-wealth) |
 ## Backtracking
 |  |
 | ------- |
