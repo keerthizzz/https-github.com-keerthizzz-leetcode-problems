@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0326-power-of-three) |
 ## Two Pointers
 |  |
 | ------- |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0292-nim-game) |
+| [0326-power-of-three](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0326-power-of-three) |
 ## Matrix
 |  |
 | ------- |
