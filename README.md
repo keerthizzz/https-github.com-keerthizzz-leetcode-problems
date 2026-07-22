@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0066-plus-one) |
 ## Matrix
 |  |
 | ------- |
