@@ -21,12 +21,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0068-text-justification) |
+| [0073-set-matrix-zeroes](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0001-two-sum) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0041-first-missing-positive](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 ## String
 |  |
 | ------- |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 ## Backtracking
 |  |
 | ------- |
