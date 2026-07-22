@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0300-longest-increasing-subsequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0140-word-break-ii) |
 | [0279-perfect-squares](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0279-perfect-squares) |
+| [0300-longest-increasing-subsequence](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0300-longest-increasing-subsequence) |
 ## Recursion
 |  |
 | ------- |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0278-first-bad-version) |
+| [0300-longest-increasing-subsequence](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0300-longest-increasing-subsequence) |
 ## Greedy
 |  |
 | ------- |
