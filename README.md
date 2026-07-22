@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0091-decode-ways) |
+| [0125-valid-palindrome](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0125-valid-palindrome) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0125-valid-palindrome) |
 ## Sorting
 |  |
 | ------- |
