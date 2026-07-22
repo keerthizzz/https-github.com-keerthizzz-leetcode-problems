@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0136-single-number) |
 | [0140-word-break-ii](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0140-word-break-ii) |
+| [0219-contains-duplicate-ii](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0219-contains-duplicate-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0140-word-break-ii](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0141-linked-list-cycle) |
+| [0219-contains-duplicate-ii](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0219-contains-duplicate-ii) |
 ## String
 |  |
 | ------- |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0219-contains-duplicate-ii](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0219-contains-duplicate-ii) |
 ## Stack
 |  |
 | ------- |
