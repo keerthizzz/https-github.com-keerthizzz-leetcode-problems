@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0342-power-of-four) |
 ## Two Pointers
 |  |
 | ------- |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0342-power-of-four) |
 ## Matrix
 |  |
 | ------- |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0342-power-of-four) |
 ## Depth-First Search
 |  |
 | ------- |
