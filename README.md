@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0303-range-sum-query-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0307-range-sum-query-mutable) |
 ## Hash Table
 |  |
 | ------- |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0191-number-of-1-bits) |
+| [0307-range-sum-query-mutable](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0307-range-sum-query-mutable) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -321,4 +323,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0303-range-sum-query-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0307-range-sum-query-mutable) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0307-range-sum-query-mutable) |
+## Segment Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
