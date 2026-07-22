@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0219-contains-duplicate-ii](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0268-missing-number) |
+| [0299-bulls-and-cows](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0299-bulls-and-cows) |
 ## String
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0132-palindrome-partitioning-ii](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0140-word-break-ii) |
+| [0299-bulls-and-cows](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0299-bulls-and-cows) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -304,4 +306,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0292-nim-game) |
+## Counting
+|  |
+| ------- |
+| [0299-bulls-and-cows](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0299-bulls-and-cows) |
 <!---LeetCode Topics End-->
