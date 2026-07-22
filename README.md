@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0090-subsets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0089-gray-code) |
+| [0090-subsets-ii](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0090-subsets-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0089-gray-code) |
+| [0090-subsets-ii](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0090-subsets-ii) |
 ## Depth-First Search
 |  |
 | ------- |
