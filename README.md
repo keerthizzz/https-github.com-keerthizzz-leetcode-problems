@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0136-single-number) |
 | [0140-word-break-ii](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0140-word-break-ii) |
 | [0219-contains-duplicate-ii](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0238-product-of-array-except-self) |
 ## Hash Table
 |  |
 | ------- |
@@ -274,4 +275,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0140-word-break-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
