@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0096-unique-binary-search-trees) |
+| [0172-factorial-trailing-zeroes](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0172-factorial-trailing-zeroes) |
 ## Matrix
 |  |
 | ------- |
