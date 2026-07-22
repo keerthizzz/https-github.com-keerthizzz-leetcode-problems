@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0140-word-break-ii) |
 | [0299-bulls-and-cows](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0299-bulls-and-cows) |
+| [0306-additive-number](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0306-additive-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0113-path-sum-ii) |
 | [0140-word-break-ii](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0140-word-break-ii) |
+| [0306-additive-number](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0306-additive-number) |
 ## Simulation
 |  |
 | ------- |
