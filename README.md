@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0068-text-justification) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0068-text-justification) |
 | [0091-decode-ways](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0091-decode-ways) |
 ## Dynamic Programming
 |  |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0068-text-justification) |
 ## Combinatorics
 |  |
 | ------- |
