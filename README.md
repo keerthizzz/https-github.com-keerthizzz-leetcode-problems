@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0132-palindrome-partitioning-ii](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0140-word-break-ii) |
+| [0279-perfect-squares](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0279-perfect-squares) |
 ## Recursion
 |  |
 | ------- |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0279-perfect-squares) |
 ## Matrix
 |  |
 | ------- |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0279-perfect-squares](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0279-perfect-squares) |
 ## Trie
 |  |
 | ------- |
