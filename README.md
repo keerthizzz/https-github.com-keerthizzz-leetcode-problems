@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/1122-relative-sort-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1470-shuffle-the-array](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/1470-shuffle-the-array) |
 ## Hash Table
 |  |
 | ------- |
