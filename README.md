@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0089-gray-code) |
 ## Matrix
 |  |
 | ------- |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0089-gray-code) |
 ## Simulation
 |  |
 | ------- |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0089-gray-code) |
 ## Depth-First Search
 |  |
 | ------- |
