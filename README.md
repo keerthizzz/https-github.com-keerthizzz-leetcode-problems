@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0051-n-queens) |
 ## Hash Table
 |  |
 | ------- |
@@ -102,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0048-rotate-image) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
