@@ -404,4 +404,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1051-height-checker](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/1122-relative-sort-array) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
