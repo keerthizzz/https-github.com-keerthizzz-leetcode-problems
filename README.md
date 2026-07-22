@@ -171,18 +171,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0101-symmetric-tree) |
 ## Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0096-unique-binary-search-trees](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0101-symmetric-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0096-unique-binary-search-trees](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0101-symmetric-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -191,4 +194,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
