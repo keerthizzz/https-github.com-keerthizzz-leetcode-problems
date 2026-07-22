@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0299-bulls-and-cows) |
 | [0349-intersection-of-two-arrays](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0389-find-the-difference) |
 ## String
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0389-find-the-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0148-sort-list) |
 | [0268-missing-number](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0389-find-the-difference) |
 ## Linked List
 |  |
 | ------- |
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0389-find-the-difference) |
 ## Depth-First Search
 |  |
 | ------- |
