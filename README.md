@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0090-subsets-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0096-unique-binary-search-trees) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Recursion
 |  |
 | ------- |
