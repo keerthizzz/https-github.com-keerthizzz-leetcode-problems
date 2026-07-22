@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/1748-sum-of-unique-elements) |
 | [1929-concatenation-of-array](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/1929-concatenation-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/3312-sorted-gcd-pair-queries) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/1346-check-if-n-and-its-double-exist) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/1122-relative-sort-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/1346-check-if-n-and-its-double-exist) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Linked List
 |  |
 | ------- |
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0509-fibonacci-number) |
 | [3312-sorted-gcd-pair-queries](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/3312-sorted-gcd-pair-queries) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
 |  |
 | ------- |
@@ -281,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/1929-concatenation-of-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
 | ------- |
@@ -437,4 +442,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/3312-sorted-gcd-pair-queries) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
