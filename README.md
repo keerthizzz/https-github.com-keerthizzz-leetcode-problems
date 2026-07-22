@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0111-minimum-depth-of-binary-tree) |
 ## Tree
 |  |
 | ------- |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0111-minimum-depth-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0111-minimum-depth-of-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -202,4 +205,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0111-minimum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
