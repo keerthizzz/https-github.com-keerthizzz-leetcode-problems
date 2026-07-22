@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0148-sort-list) |
 ## Sorting
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0148-sort-list) |
 ## Linked List
 |  |
 | ------- |
@@ -108,10 +110,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0148-sort-list) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0148-sort-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -120,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0148-sort-list) |
 ## String Matching
 |  |
 | ------- |
