@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0035-search-insert-position) |
 ## Hash Table
 |  |
 | ------- |
@@ -79,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0032-longest-valid-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
