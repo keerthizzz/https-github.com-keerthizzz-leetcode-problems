@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Search
 |  |
 | ------- |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0145-binary-tree-postorder-traversal) |
 ## Tree
 |  |
 | ------- |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
