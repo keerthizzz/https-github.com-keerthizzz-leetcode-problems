@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/1122-relative-sort-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0389-find-the-difference) |
+| [1122-relative-sort-array](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/1122-relative-sort-array) |
 ## String
 |  |
 | ------- |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/1122-relative-sort-array) |
 ## Linked List
 |  |
 | ------- |
@@ -400,4 +403,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
