@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0041-first-missing-positive) |
+| [0045-jump-game-ii](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0045-jump-game-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0032-longest-valid-parentheses) |
+| [0045-jump-game-ii](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0045-jump-game-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -87,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0035-search-insert-position) |
+## Greedy
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
