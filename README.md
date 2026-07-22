@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0067-add-binary) |
+| [0091-decode-ways](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0091-decode-ways) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0062-unique-paths) |
+| [0091-decode-ways](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0091-decode-ways) |
 ## Recursion
 |  |
 | ------- |
