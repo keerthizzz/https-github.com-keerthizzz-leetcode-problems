@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0307-range-sum-query-mutable) |
 | [0349-intersection-of-two-arrays](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
+| [0493-reverse-pairs](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0493-reverse-pairs) |
 | [0724-find-pivot-index](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0867-transpose-matrix) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0191-number-of-1-bits) |
 | [0307-range-sum-query-mutable](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0307-range-sum-query-mutable) |
+| [0493-reverse-pairs](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0493-reverse-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0148-sort-list) |
+| [0493-reverse-pairs](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0493-reverse-pairs) |
 ## String Matching
 |  |
 | ------- |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
+| [0493-reverse-pairs](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0493-reverse-pairs) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [3312-sorted-gcd-pair-queries](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/3312-sorted-gcd-pair-queries) |
 ## Greedy
@@ -432,10 +436,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0307-range-sum-query-mutable) |
+| [0493-reverse-pairs](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0493-reverse-pairs) |
 ## Segment Tree
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0307-range-sum-query-mutable) |
+| [0493-reverse-pairs](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0493-reverse-pairs) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -465,5 +471,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
 ![LeetCode Stats](https://leetcard.jacoblin.cool/_KEERTHANAKANNAN_?theme=light&font=Shrikhand)
