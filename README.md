@@ -480,5 +480,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0493-reverse-pairs) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
 ![LeetCode Stats](https://leetcard.jacoblin.cool/_KEERTHANAKANNAN_?theme=light&font=Shrikhand)
