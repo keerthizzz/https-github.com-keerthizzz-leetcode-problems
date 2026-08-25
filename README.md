@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0010-regular-expression-matching) |
+| [0014-longest-common-prefix](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0032-longest-valid-parentheses) |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0140-word-break-ii](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0140-word-break-ii) |
 ## Memoization
 |  |
