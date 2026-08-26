@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/1108-defanging-an-ip-address) |
+| [1392-longest-happy-prefix](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/1392-longest-happy-prefix) |
 | [1408-string-matching-in-an-array](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/1408-string-matching-in-an-array) |
 | [1668-maximum-repeating-substring](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/1668-maximum-repeating-substring) |
 ## Dynamic Programming
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1392-longest-happy-prefix](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/1392-longest-happy-prefix) |
 | [1408-string-matching-in-an-array](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/1408-string-matching-in-an-array) |
 | [1668-maximum-repeating-substring](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/1668-maximum-repeating-substring) |
 ## Sliding Window
@@ -511,5 +513,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0324-wiggle-sort-ii) |
+## Rolling Hash
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/1392-longest-happy-prefix) |
+## Hash Function
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/1392-longest-happy-prefix) |
+## Z Algorithm
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/1392-longest-happy-prefix) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
 ![LeetCode Stats](https://leetcard.jacoblin.cool/_KEERTHANAKANNAN_?theme=light&font=Shrikhand)
