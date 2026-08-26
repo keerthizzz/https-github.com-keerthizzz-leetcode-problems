@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/1108-defanging-an-ip-address) |
 | [1408-string-matching-in-an-array](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/1408-string-matching-in-an-array) |
+| [1668-maximum-repeating-substring](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/1668-maximum-repeating-substring) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0300-longest-increasing-subsequence) |
 | [0509-fibonacci-number](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0509-fibonacci-number) |
+| [1668-maximum-repeating-substring](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/1668-maximum-repeating-substring) |
 ## Recursion
 |  |
 | ------- |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1408-string-matching-in-an-array](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/1408-string-matching-in-an-array) |
+| [1668-maximum-repeating-substring](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/1668-maximum-repeating-substring) |
 ## Sliding Window
 |  |
 | ------- |
