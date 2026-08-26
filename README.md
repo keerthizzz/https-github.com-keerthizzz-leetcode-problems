@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/1122-relative-sort-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1408-string-matching-in-an-array](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/1408-string-matching-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/1108-defanging-an-ip-address) |
+| [1408-string-matching-in-an-array](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/1408-string-matching-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1408-string-matching-in-an-array](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/1408-string-matching-in-an-array) |
 ## Sliding Window
 |  |
 | ------- |
