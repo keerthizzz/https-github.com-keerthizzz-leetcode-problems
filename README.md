@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
+| [0980-unique-paths-iii](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0980-unique-paths-iii) |
 | [1051-height-checker](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/1122-relative-sort-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0079-word-search) |
 | [0867-transpose-matrix](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0867-transpose-matrix) |
+| [0980-unique-paths-iii](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0980-unique-paths-iii) |
 | [1572-matrix-diagonal-sum](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/1672-richest-customer-wealth) |
 ## Backtracking
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0140-word-break-ii) |
 | [0306-additive-number](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0306-additive-number) |
 | [0401-binary-watch](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0401-binary-watch) |
+| [0980-unique-paths-iii](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0980-unique-paths-iii) |
 ## Simulation
 |  |
 | ------- |
@@ -348,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0980-unique-paths-iii](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0980-unique-paths-iii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -532,5 +536,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1392-longest-happy-prefix](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/1392-longest-happy-prefix) |
+## Hamiltonian Path
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0980-unique-paths-iii) |
 <!---LeetCode Topics End-->
 ![LeetCode Stats](https://leetcard.jacoblin.cool/_KEERTHANAKANNAN_?theme=light&font=Shrikhand)
