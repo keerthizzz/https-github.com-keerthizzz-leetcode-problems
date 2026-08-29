@@ -375,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0404-sum-of-left-leaves) |
+| [1042-flower-planting-with-no-adjacent](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/1042-flower-planting-with-no-adjacent) |
 ## Tree
 |  |
 | ------- |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0279-perfect-squares](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0279-perfect-squares) |
 | [0404-sum-of-left-leaves](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0404-sum-of-left-leaves) |
+| [1042-flower-planting-with-no-adjacent](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/1042-flower-planting-with-no-adjacent) |
 ## Trie
 |  |
 | ------- |
@@ -546,5 +548,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0980-unique-paths-iii](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0980-unique-paths-iii) |
+## Graph Theory
+|  |
+| ------- |
+| [1042-flower-planting-with-no-adjacent](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/1042-flower-planting-with-no-adjacent) |
+## Graph Coloring
+|  |
+| ------- |
+| [1042-flower-planting-with-no-adjacent](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/1042-flower-planting-with-no-adjacent) |
 <!---LeetCode Topics End-->
 ![LeetCode Stats](https://leetcard.jacoblin.cool/_KEERTHANAKANNAN_?theme=light&font=Shrikhand)
