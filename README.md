@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0231-power-of-two](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0342-power-of-four) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0023-merge-k-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
