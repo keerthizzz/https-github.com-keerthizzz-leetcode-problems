@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0041-first-missing-positive](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0073-set-matrix-zeroes) |
+| [0138-copy-list-with-random-pointer](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0140-word-break-ii](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0219-contains-duplicate-ii](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0219-contains-duplicate-ii) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0138-copy-list-with-random-pointer](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0148-sort-list) |
 ## Divide and Conquer
