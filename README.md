@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0136-single-number) |
 | [0140-word-break-ii](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0140-word-break-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0238-product-of-array-except-self) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0316-remove-duplicate-letters](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0316-remove-duplicate-letters) |
 | [0739-daily-temperatures](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0739-daily-temperatures) |
 ## Binary Search
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0096-unique-binary-search-trees) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0268-missing-number) |
