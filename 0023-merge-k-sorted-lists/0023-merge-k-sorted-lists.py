@@ -1,25 +1,40 @@
-import heapq
-
-class ListNode:
-    def __init__(self, val=0, next=None):
-        self.val = val
-        self.next = next
-
+# Definition for singly-linked list.
+# class ListNode:
+#     def __init__(self, val=0, next=None):
+#         self.val = val
+#         self.next = next
 class Solution:
-    def mergeKLists(self, lists):
-        heap = []
-        for i, node in enumerate(lists):
-            if node:
-                heapq.heappush(heap, (node.val, i, node))
-        
+    def mergeKLists(self, lists: List[Optional[ListNode]]) -> Optional  [ListNode]:
         dummy = ListNode(0)
-        curr = dummy
-        
+        tail = dummy
+
+        heap = []
+
+    # Put first node of every list into heap
+        for i in range(len(lists)):
+
+            if lists[i] is not None:
+
+                heapq.heappush(
+                    heap,
+                    (lists[i].val, i, lists[i])
+                )
+
+    # Continue until heap becomes empty
         while heap:
-            val, i, node = heapq.heappop(heap)
-            curr.next = node
-            curr = curr.next
-            if node.next:
-                heapq.heappush(heap, (node.next.val, i, node.next))
-        
+
+        # Get smallest node
+            value, i, node = heapq.heappop(heap)
+
+        # Attach node to result
+            tail.next = node
+            tail = tail.next
+
+            if node.next is not None:
+
+                heapq.heappush(
+                    heap,
+                    (node.next.val, i, node.next)
+                )
+
         return dummy.next
