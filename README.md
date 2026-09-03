@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0283-move-zeroes) |
+| [0295-find-median-from-data-stream](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0148-sort-list) |
 | [0268-missing-number](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0274-h-index) |
+| [0295-find-median-from-data-stream](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0295-find-median-from-data-stream) |
 | [0324-wiggle-sort-ii](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0324-wiggle-sort-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0389-find-the-difference) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0023-merge-k-sorted-lists) |
+| [0295-find-median-from-data-stream](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0295-find-median-from-data-stream) |
 | [0451-sort-characters-by-frequency](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 ## Merge Sort
 |  |
@@ -476,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0155-min-stack) |
+| [0295-find-median-from-data-stream](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0307-range-sum-query-mutable) |
 ## Binary Indexed Tree
@@ -569,5 +573,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0023-merge-k-sorted-lists) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
 ![LeetCode Stats](https://leetcard.jacoblin.cool/_KEERTHANAKANNAN_?theme=light&font=Shrikhand)
