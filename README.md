@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0324-wiggle-sort-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0493-reverse-pairs](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0493-reverse-pairs) |
+| [0523-continuous-subarray-sum](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0724-find-pivot-index) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
+| [0523-continuous-subarray-sum](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0904-fruit-into-baskets) |
 | [1122-relative-sort-array](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/1122-relative-sort-array) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0509-fibonacci-number) |
+| [0523-continuous-subarray-sum](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0523-continuous-subarray-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -471,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0303-range-sum-query-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/1480-running-sum-of-1d-array) |
@@ -607,5 +611,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
 ![LeetCode Stats](https://leetcard.jacoblin.cool/_KEERTHANAKANNAN_?theme=light&font=Shrikhand)
