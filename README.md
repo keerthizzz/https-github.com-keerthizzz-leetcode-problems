@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0051-n-queens) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0062-unique-paths) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0125-valid-palindrome) |
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
@@ -499,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0316-remove-duplicate-letters) |
 | [0739-daily-temperatures](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0739-daily-temperatures) |
 ## Queue
