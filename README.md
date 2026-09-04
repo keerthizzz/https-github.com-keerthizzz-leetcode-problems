@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0645-set-mismatch) |
+| [0704-binary-search](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0867-transpose-matrix) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0493-reverse-pairs](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0493-reverse-pairs) |
+| [0704-binary-search](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0875-koko-eating-bananas) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
