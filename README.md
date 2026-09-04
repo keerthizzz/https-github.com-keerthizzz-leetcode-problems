@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/1748-sum-of-unique-elements) |
 | [1929-concatenation-of-array](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/1929-concatenation-of-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0509-fibonacci-number) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -514,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -577,5 +580,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0295-find-median-from-data-stream) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
 ![LeetCode Stats](https://leetcard.jacoblin.cool/_KEERTHANAKANNAN_?theme=light&font=Shrikhand)
