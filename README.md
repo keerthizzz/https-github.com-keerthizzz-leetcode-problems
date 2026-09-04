@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0136-single-number) |
 | [0140-word-break-ii](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0140-word-break-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0219-contains-duplicate-ii) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0140-word-break-ii) |
+| [0152-maximum-product-subarray](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0152-maximum-product-subarray) |
 | [0279-perfect-squares](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0300-longest-increasing-subsequence) |
 | [0509-fibonacci-number](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0509-fibonacci-number) |
