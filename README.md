@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0324-wiggle-sort-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0493-reverse-pairs](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0493-reverse-pairs) |
+| [0560-subarray-sum-equals-k](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0739-daily-temperatures) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
+| [0560-subarray-sum-equals-k](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [1122-relative-sort-array](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/1122-relative-sort-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1748-sum-of-unique-elements](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/1748-sum-of-unique-elements) |
@@ -466,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/1480-running-sum-of-1d-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/3312-sorted-gcd-pair-queries) |
