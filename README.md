@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0140-word-break-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0164-maximum-gap](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0179-largest-number) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0240-search-a-2d-matrix-ii) |
