@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0541-reverse-string-ii](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0686-repeated-string-match](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0686-repeated-string-match) |
 | [0709-to-lower-case](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/1108-defanging-an-ip-address) |
 | [1392-longest-happy-prefix](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/1392-longest-happy-prefix) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0686-repeated-string-match](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0686-repeated-string-match) |
 | [1392-longest-happy-prefix](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/1392-longest-happy-prefix) |
 | [1408-string-matching-in-an-array](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/1408-string-matching-in-an-array) |
 | [1668-maximum-repeating-substring](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/1668-maximum-repeating-substring) |
@@ -635,10 +637,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Z Algorithm
 |  |
 | ------- |
+| [0686-repeated-string-match](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0686-repeated-string-match) |
 | [1392-longest-happy-prefix](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/1392-longest-happy-prefix) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
+| [0686-repeated-string-match](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0686-repeated-string-match) |
 | [1392-longest-happy-prefix](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/1392-longest-happy-prefix) |
 ## Hamiltonian Path
 |  |
@@ -690,5 +694,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0164-maximum-gap) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
 ![LeetCode Stats](https://leetcard.jacoblin.cool/_KEERTHANAKANNAN_?theme=light&font=Shrikhand)
