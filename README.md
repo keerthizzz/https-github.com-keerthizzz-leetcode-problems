@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0090-subsets-ii) |
+| [0120-triangle](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0136-single-number) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0097-interleaving-string) |
+| [0120-triangle](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0132-palindrome-partitioning-ii) |
