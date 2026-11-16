@@ -324,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0316-remove-duplicate-letters) |
 | [0739-daily-temperatures](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0739-daily-temperatures) |
 ## Binary Search
@@ -562,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0307-range-sum-query-mutable) |
@@ -584,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting Sort
 |  |
