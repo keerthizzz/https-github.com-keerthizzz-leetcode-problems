@@ -385,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0523-continuous-subarray-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/0973-k-closest-points-to-origin) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2769-find-the-maximum-achievable-number](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/2769-find-the-maximum-achievable-number) |
 | [3312-sorted-gcd-pair-queries](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/keerthizzz/https-github.com-keerthizzz-leetcode-problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
